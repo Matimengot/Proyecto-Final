@@ -1,4 +1,4 @@
-Jugador,País,Posc,Equipo,Edad,Nacimiento,PJ,Titular,Mín,Gls.,Asistencias,Goles+Asistencias,Tarjetas Amarillas,Tarjetas Rojas,Goles Esperados,Asistencias Esperadas,Valor de mercado
+Jugador,País,Posicion,Equipo,Edad,Nacimiento,PJ,Titular,Mín,Gls.,Asistencias,Goles+Asistencias,Tarjetas Amarillas,Tarjetas Rojas,Goles Esperados,Asistencias Esperadas,Valor de mercado
 Aaron Connolly,IRL,Delantero,Brighton,21,2000.0,15.0,8.0,735.0,1.6666666666666667,0.6666666666666666,2.3333333333333335,0.0,0.0,2.8000000000000003,0.26666666666666666,3500000.0
 Aaron Cresswell,ENG,Defensa,West Ham,33,1989.0,25.6,24.6,2188.6,1.0,2.4,3.4,3.2,0.0,0.76,3.34,1200000.0
 Aaron Hickey,SCO,Defensa,Brentford,21,2002.0,20.5,19.0,1551.75,1.25,0.5,1.75,5.5,0.25,0.4,0.6,30000000.0
