@@ -55,8 +55,6 @@ Tambien logramos ver la edad promedio en la que los jugadores llegan a su "prime
 
 </details>
 
-SEGUIR RESULTADOS
-
 <a name="prox"/>
 
 # Proximos pasos:
