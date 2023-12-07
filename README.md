@@ -58,6 +58,14 @@ También logramos ver la edad promedio en la que los jugadores llegan a su "prim
 
 </details>
 
+<details>
+ <summary>Pareto</summary>
+
+![Alt text](img/pareto.png)
+
+</details>
+
+
 <a name="prox"/>
 
 # Proximos pasos:
