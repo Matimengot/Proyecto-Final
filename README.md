@@ -4,16 +4,18 @@
 
 ## Index 🤘
 
-1. [Objetivo](#obj)
-2. [Pasos](#pas)
-3. [Resultado](#res)
-4. [Informacion y links](#info)
+1. [🎯 Objetivo](#obj)
+2. [⌛ Pasos](#pas)
+3. [✅ Resultados](#res)
+4. [👣 Proximos pasos](#prox)
+4. [📂 Informacion y links](#info)
+
 
 <a name="obj"/>
 
 # Objetivo:
 
-Como objetivo de mi proyecto final en Ironhack, mezcle mi fanatsimo por el futbol con mi interes por estudiar las estadisticas que hay de trasfondo a la hora de hablas de valores de mercado, ya sea de las grandes ligas o de estadisticas personales de cada jugador.
+Como objetivo de mi proyecto final en Ironhack, mezcle mi fanatismo por el futbol con mi interes por estudiar las variables que hay de trasfondo a la hora de hablar de valores de mercado, ya sea de las grandes ligas o de estadisticas personales de cada jugador.
 
 Es asi que me decidi a analizar los valores de mercado que manejan las tres grandes ligas del mundo (LaLiga, Premier League y Serie A). Analizando el valor de todos los jugadores de cada liga desde la temporada 2017-2018 y viendo como las estadisticas individuales influyen en su valor de mercado. Y luego poder visualizar el valor de mercado total que maneja cada equipo de su respectiva liga.
 
@@ -53,6 +55,34 @@ Tambien logramos ver la edad promedio en la que los jugadores llegan a su "prime
 
 </details>
 
+SEGUIR RESULTADOS
+
+<a name="prox"/>
+
+# Proximos pasos:
+
+Los siguientes pasos a seguir para este proyecto son los siguientes:
+
+- Mejorar el modelo predictivo para poder predecir el valor de mercado segun estadisticas de los jugadores.
+- Crear un streamlit para poder poner filtros y predecir su valor de mercado
+
+<a name="info"/>
+
+# Informacion y links:
+
+[Pandas](https://pandas.pydata.org/)
+
+[MySQL Workbench](https://www.mysql.com/products/workbench/)
+
+[Selenium](https://www.selenium.dev/)
+
+[Power BI](https://powerbi.microsoft.com/es-es/)
+
+[Sklearn](https://scikit-learn.org/stable/)
+
+[FBref](https://fbref.com/es/)
+
+[Transfermarkt](https://www.transfermarkt.es/)
 
 
 
